@@ -40,7 +40,7 @@
 
 ## Contribute
 
-- [How to contribute to Awesome Vontigo](https://github.com/yourusername/awesome-vontigo/blob/main/CONTRIBUTING.md)
+- [How to contribute to Awesome Vontigo](https://github.com/Vontigo/awesome-vontigo/blob/main/contributing.md)
 
 ## License
 
