@@ -23,11 +23,10 @@
 
 ## Documentation
 
-- [Official Vontigo CMS documentation](https://vontigo.org/docs)
-- [Vontigo CMS tutorials](https://vontigo.org/tutorials)
-- [Other Vontigo CMS resources](https://vontigo.org/resources)
+- [Official Vontigo CMS documentation](https://docs.vontigo.org/docs)
+- [Vontigo CMS tutorials](https://www.youtube.com/@vontigo)
 
-## Examples
+## Showcases
 
 - [Example website 1](https://example.com/website1)
 - [Example website 2](https://example.com/website2)
